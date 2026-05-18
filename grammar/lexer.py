@@ -1,6 +1,6 @@
 import re
-from token_types import TokenType
-from token_class import Token
+from src.token_types import TokenType
+from src.token_class import Token
 
 
 class Lexer:

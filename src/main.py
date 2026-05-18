@@ -1,6 +1,6 @@
 import sys
 import os
-from lexer import Lexer
+from grammar.lexer import Lexer
 from parser import Parser
 from token_types import TokenType  # 👈 IMPORTANTE
 
